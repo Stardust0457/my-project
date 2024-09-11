@@ -1,2 +1,5 @@
 # my-project
-My first repository on GitHub
+My first repository on GitHub!
+
+Hello World!
+I love pizza!
